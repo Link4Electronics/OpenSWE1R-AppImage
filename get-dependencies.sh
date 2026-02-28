@@ -31,5 +31,7 @@ echo "$VERSION" > ~/version
 mkdir -p ./AppDir/bin
 cd ./openswe1r
 mkdir -p build && cd build
-cmake -DCMAKE_BUILD_TYPE=Release ..
+cmake .. \
+    -DCMAKE_BUILD_TYPE=Release \
+    -DCMAKE_POLICY_VERSION_MINIMUM=3.5
 make -j$(nproc)
