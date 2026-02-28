@@ -9,6 +9,7 @@ echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm \
     cmake    \
     enet     \
+    glew     \
     libdecor \
     openal   \
     sdl2     \
