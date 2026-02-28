@@ -33,6 +33,7 @@ cd ./openswe1r
 mkdir -p build && cd build
 cmake .. \
     -DCMAKE_BUILD_TYPE=Release \
+    -DUSE_VM=ON \
     -DCMAKE_C_FLAGS="-Wno-incompatible-pointer-types" \
     -DCMAKE_POLICY_VERSION_MINIMUM=3.5
 make -j$(nproc)
