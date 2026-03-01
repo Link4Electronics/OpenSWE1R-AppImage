@@ -21,7 +21,7 @@
 ### ⚠️ Using GOG release, move `data` and `swep1rcr.exe` to /.local/share/openswe1r
 ### ⚠️ Must lowercase everything inside `data` and `swep1rcr.exe`
 ### ⚠️ From GOG version, move `config` and `player` from `__support/save/data/` inside `data`
-### ⚠️ It does have known audio [issues](https://github.com/OpenSWE1R/openswe1r/issues/47)
+### ⚠️ It does have known audio [issues](https://github.com/OpenSWE1R/openswe1r/issues/47) suggest to disable audio in options
 
 ---
 
