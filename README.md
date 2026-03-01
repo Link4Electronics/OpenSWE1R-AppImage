@@ -17,10 +17,10 @@
 
 </div>
 
-### ⚠️ Must enable AMD-V SVM or Intel VT-x VT-d in BIOS (arm64 uses libunicorn no need for that) ⚠️
-### ⚠️ Using GOG release, move `data` and `swep1rcr.exe` to /.local/share/openswe1r ⚠️
-### ⚠️ Must lowercase everything inside `data` and `swep1rcr.exe` ⚠️
-### ⚠️ From GOG version, move `config` and `player` from `__support/save/data/` inside `data` ⚠️
+### ⚠️ Must enable AMD-V SVM or Intel VT-x VT-d in BIOS (arm64 uses libunicorn no need for that)
+### ⚠️ Using GOG release, move `data` and `swep1rcr.exe` to /.local/share/openswe1r
+### ⚠️ Must lowercase everything inside `data` and `swep1rcr.exe`
+### ⚠️ From GOG version, move `config` and `player` from `__support/save/data/` inside `data`
 
 ---
 
